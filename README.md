@@ -42,7 +42,7 @@ npm run dev
 
 ## 指标计算逻辑参考
 
-- 指标计算逻辑参考文档：`c:\Users\yinsh\Desktop\Nomici\demo_stock_investor\.trae\documents\stock_dashboard_prd_data_ux_cn.md`
+- 指标计算逻辑参考文档：`.trae/documents/stock_dashboard_prd_data_ux_cn.md`
 
 默认地址：
 
